@@ -1,2 +1,2 @@
-# Tne
+# Snake
 object simulation
