@@ -1,2 +1,2 @@
 # Snake
-object simulation
+Simulating snake by using array
